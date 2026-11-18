@@ -1,13 +1,13 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.2",
   "sources": {
     "x86_64-linux": {
-      "url": "https://opencode.ai/files/bin/2.3.0/opencode-linux-x64.tar.gz",
-      "hash": "sha256-/A+BUirO6rrEdpPYg4nvorxRfOdMLDj9aWeBn8xuTTs="
+      "url": "https://opencode.ai/files/bin/2.3.2/opencode-linux-x64.tar.gz",
+      "hash": "sha256-VjtdZjY3ImtuO7S7aAMoG8ObDSzYjbBtZ0tkIKqwCbA="
     },
     "aarch64-linux": {
-      "url": "https://opencode.ai/files/bin/2.3.0/opencode-linux-arm64.tar.gz",
-      "hash": "sha256-Mgf7XN7ESNR5JCwPGhT09738rTp5IJteuPkANyXpNxE="
+      "url": "https://opencode.ai/files/bin/2.3.2/opencode-linux-arm64.tar.gz",
+      "hash": "sha256-nRAYWs23IzbghuaZyjY6YGX0EP08HK7Q3IBG6VrAbMs="
     }
   }
 }
